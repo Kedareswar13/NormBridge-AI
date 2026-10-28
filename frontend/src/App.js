@@ -1,0 +1,58 @@
+import React, { useState, useEffect } from "react";
+import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-dom";
+import ChatApp from "./pages/ChatApp";
+import Admin from "./pages/Admin";
+import SystemOverview from "./pages/SystemOverview";
+import "./App.css";
+import "./styles/normbridge-theme.css";
+import "./styles/normbridge-dark.generated.css";
+import "./styles/normbridge-dark.css";
+import "./styles/normbridge-layout.css";
+import { applyStoredTheme } from "./components/ThemeToggle";
+
+applyStoredTheme();
+
+function App() {
+  const [loading, setLoading] = useState(false);
+
+  useEffect(() => {
+    const handleRouteChange = () => {
+      setLoading(true);
+      setTimeout(() => {
+        setLoading(false);
+      }, 750);
+    };
+
+    const originalPushState = window.history.pushState;
+    window.history.pushState = function () {
+      originalPushState.apply(this, arguments);
+      handleRouteChange();
+    };
+
+    window.addEventListener('popstate', handleRouteChange);
+
+    return () => {
+      window.removeEventListener('popstate', handleRouteChange);
+    };
+  }, []);
+
+  return (
+    <Router>
+      {loading && (
+        <div className="page-loading-overlay">
+          <div className="loading-spinner-large"></div>
+          <div className="loading-text">Loading...</div>
+        </div>
+      )}
+
+      <Routes>
+        <Route path="/" element={<ChatApp />} />
+        <Route path="/admin" element={<Admin />} />
+        <Route path="/about" element={<SystemOverview />} />
+        <Route path="*" element={<Navigate to="/" />} />
+      </Routes>
+    </Router>
+  );
+}
+
+export default App;

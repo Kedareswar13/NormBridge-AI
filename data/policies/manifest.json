@@ -1,0 +1,157 @@
+{
+  "Anti-Ragging-Policy.pdf": {
+    "category": "Anti-Ragging",
+    "audience": "public",
+    "source_url": "https://www.srmap.edu.in/wp-content/uploads/2025/05/Anti-Ragging-Policy.pdf",
+    "sha256": "a0daa695376121cbce25fa0189e7aa8c856d48160f5ca28f2b6dd0a173548758",
+    "bytes": 513375,
+    "fetched": "2026-10-27"
+  },
+  "Student-Code-of-Conduct.pdf": {
+    "category": "Code of Conduct",
+    "audience": "public",
+    "source_url": "https://www.srmap.edu.in/wp-content/uploads/2026/09/Student-Code-of-Conduct-of-SRM-UNIVERSITY-AP.pdf",
+    "sha256": "88a7d14bc7a5cbdd9daaa2680af69eb9a38fab66928b36a2f1f16b59a4be9eab",
+    "bytes": 1676766,
+    "fetched": "2026-10-27"
+  },
+  "Students-Attendance-Policy.pdf": {
+    "category": "Attendance",
+    "audience": "public",
+    "source_url": "https://www.srmap.edu.in/wp-content/uploads/2026/07/Students-Attendance-Policy.pdf",
+    "sha256": "1839db1ea68e9170c149363fecab6994cde2b11254c8418e33174ab9131187c8",
+    "bytes": 153466,
+    "fetched": "2026-10-27"
+  },
+  "Plagiarism-Policy.pdf": {
+    "category": "Plagiarism",
+    "audience": "public",
+    "source_url": "https://www.srmap.edu.in/wp-content/uploads/2025/08/Plagiarism-Policy-of-SRM-University-AP.pdf",
+    "sha256": "302a4a23a059843a89724ca26da7800454af1baa2fa286a8c861a0f967c66d8e",
+    "bytes": 582246,
+    "fetched": "2026-10-27"
+  },
+  "Library-Policy.pdf": {
+    "category": "Library",
+    "audience": "public",
+    "source_url": "https://www.srmap.edu.in/wp-content/uploads/2026/09/19.-Library-Policy-of-SRM-University-AP.pdf",
+    "sha256": "43f8ba615db7da584b51c878ca33f84b2376f9a8c8c0f320df1b1c03a08b95a0",
+    "bytes": 498100,
+    "fetched": "2026-10-27"
+  },
+  "University-Hostel-Policy.pdf": {
+    "category": "Hostel Policy",
+    "audience": "public",
+    "source_url": "https://www.srmap.edu.in/wp-content/uploads/2026/09/University-Hostel-Policy-31.08.2026.pdf",
+    "sha256": "2ed3a73dba2c590f1aaf5775034b0e6369e5bdc572fe532ae31ac2c8c5566d7f",
+    "bytes": 459778,
+    "fetched": "2026-10-27"
+  },
+  "Hostel-Rules-and-Regulations.pdf": {
+    "category": "Hostel Rules",
+    "audience": "public",
+    "source_url": "https://www.srmap.edu.in/wp-content/uploads/2026/07/1st-June-Revised-Hostel-Rules-and-Regulations-1.pdf",
+    "sha256": "a58dfaafa052c5477ed857d39d4aa19b9527d904646245bfe793da81a3ead0e3",
+    "bytes": 324998,
+    "fetched": "2026-10-27"
+  },
+  "Hostel-Refund-Policy.pdf": {
+    "category": "Fees & Refunds",
+    "audience": "public",
+    "source_url": "https://www.srmap.edu.in/wp-content/uploads/2025/08/Hostel-Refund-Policy.pdf",
+    "sha256": "617cd5aed798e9cee20e3562a9a742399156005b0e7e85e80db56613f2987f18",
+    "bytes": 123805,
+    "fetched": "2026-10-27"
+  },
+  "Fee-Refund-Policy.pdf": {
+    "category": "Fees & Refunds",
+    "audience": "public",
+    "source_url": "https://www.srmap.edu.in/wp-content/uploads/2025/05/Refund-Policy-of-Fee.pdf",
+    "sha256": "2a9b6a96693259718e96c6e14f60956cf26f4d4cba552425eea6f707519467cb",
+    "bytes": 109404,
+    "fetched": "2026-10-27"
+  },
+  "Transport-Refund-Policy.pdf": {
+    "category": "Transport Refund",
+    "audience": "public",
+    "source_url": "https://www.srmap.edu.in/wp-content/uploads/2025/06/Transport-Refund-Policy.pdf",
+    "sha256": "f23d664fe9a58dcb1196322f30067aa5fd7ba04074ec0e2f2732b8418fca9f2b",
+    "bytes": 67357,
+    "fetched": "2026-10-27"
+  },
+  "Student-Grievance-Redressal-Policy.pdf": {
+    "category": "Student Grievance",
+    "audience": "public",
+    "source_url": "https://www.srmap.edu.in/wp-content/uploads/2025/05/grievance-redressal-of-students-policy.pdf",
+    "sha256": "e1ee4f784102afd49179e79745c1799c9d6f3851caf80c6fad50e16ce4544bd8",
+    "bytes": 486555,
+    "fetched": "2026-10-27"
+  },
+  "Employee-Grievance-Redressal-Policy.pdf": {
+    "category": "Employee Grievance",
+    "audience": "staff",
+    "source_url": "https://www.srmap.edu.in/wp-content/uploads/2025/05/grievance-redressal-of-employees-policy.pdf",
+    "sha256": "02c54060937cd46f22d29130f3e01f355f970721ae43590a7d4f471711cc1923",
+    "bytes": 459989,
+    "fetched": "2026-10-27"
+  },
+  "PhD-Regulations.pdf": {
+    "category": "PhD Regulations",
+    "audience": "public",
+    "source_url": "https://www.srmap.edu.in/wp-content/uploads/2025/05/PhD-Regulations-Policy.pdf",
+    "sha256": "2dea74b3d1ce087d613055de32baaa3ca7c629b265fa89a055f2691617c5f42c",
+    "bytes": 1350213,
+    "fetched": "2026-10-27"
+  },
+  "PhD-Fellowship-Leave-Policy.pdf": {
+    "category": "PhD Leave",
+    "audience": "public",
+    "source_url": "https://www.srmap.edu.in/wp-content/uploads/2025/05/PhD-Fellowship-Leave-Policy.pdf",
+    "sha256": "be67190a6307fd41e2eaff24ecd9204f01e86a12f33ca1322e24ac5faf6c253d",
+    "bytes": 444498,
+    "fetched": "2026-10-27"
+  },
+  "Central-Instrumentation-Facility-Policy.pdf": {
+    "category": "Research Facilities",
+    "audience": "public",
+    "source_url": "https://www.srmap.edu.in/wp-content/uploads/2025/06/Central-Instrumentation-Facility-CIF-Policy-of-SRM-University-ap.pdf",
+    "sha256": "0b50972d897a9fd621ce812473eb5dd6b05287a941f656336a315f25b43d0833",
+    "bytes": 972294,
+    "fetched": "2026-10-27"
+  },
+  "Email-Policy.pdf": {
+    "category": "Email",
+    "audience": "public",
+    "source_url": "bundled with the repository",
+    "sha256": "89bbc82287891e57ccdeca0477cf4146fad66e17022d45625902a6cec7d765ea",
+    "bytes": 512238
+  },
+  "Sexual-Harassment-Policy.pdf": {
+    "category": "Sexual Harassment",
+    "audience": "public",
+    "source_url": "bundled with the repository",
+    "sha256": "dc5ce0f14a9ed66c9b59abe29c029155762db1e25eb2a18e0c379f99ed3b6220",
+    "bytes": 117034
+  },
+  "Substance-Abuse-Policy.pdf": {
+    "category": "Substance Abuse",
+    "audience": "public",
+    "source_url": "bundled with the repository",
+    "sha256": "2572ac9c0d1e936bdc7f773ecca7f529fc5fae6adb01de94f418c44ba6316081",
+    "bytes": 472750
+  },
+  "Use-of-Logo-and-Name-Policy.pdf": {
+    "category": "Branding",
+    "audience": "public",
+    "source_url": "bundled with the repository",
+    "sha256": "a12f77ff2ca4bc3d1b6697848bf52b0c52cf0c66b8c449ae12659d9f928a12d8",
+    "bytes": 450077
+  },
+  "Policy.pdf": {
+    "category": "Internship",
+    "audience": "public",
+    "source_url": "bundled with the repository",
+    "sha256": "2d78767feb629534d0a0dfb9a4514ccb08683b091da6d3821adc77d2348a5f6d",
+    "bytes": 9585
+  }
+}

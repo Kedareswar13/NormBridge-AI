@@ -1,0 +1,51 @@
+# Environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Local Config / secrets
+.env
+.env.*
+!.env.example
+.DS_Store
+
+# Portable local tooling (Postgres binaries + data, portable Node)
+.local/
+
+# Frontend
+node_modules/
+dist/
+build/
+.vercel/
+
+# Models & Data (Too large for Git)
+*.gguf
+*.bin
+*.pt
+*.onnx
+BitNet/models/
+BitNet/build/
+BitNet/logs/
+
+# App Data
+backend/uploads/
+uploads/
+backend/chroma_db/
+*.db
+*.db-journal
+*.sqlite
+logs/
+*.log
+
+# Temp
+tmp/
+*.tmp
+
+# Generated deployment bundles
+dist/
+
+# database snapshot for the portable zip: contains users and chat history - never commit
+data/db_snapshot/
+
+docs/
